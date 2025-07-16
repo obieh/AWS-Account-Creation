@@ -63,4 +63,14 @@
 
 ![](./img/Pasted%20image%20(15).png)
 
+* If you get a confirmation request, head over to your email, copy the verification code over to AWS login page, then click 'Verify and continue'
 
+![](./img/Pasted%20image%20(16).png)
+
+* Now you are in your AWS account. See some services like ec2, S3, Aurora and RDS lambda. You can also access a service by searching the web site.
+
+![](./img/Pasted%20image%20(17).png)
+
+* Click on Ec2 to view the service information
+
+![](./img/Pasted%20image%20(18).png)
