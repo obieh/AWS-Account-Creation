@@ -1,4 +1,4 @@
-# AWS-Account-Creation
+# AWS-Account-Creation.
 ## This project will demonstrate step by step how to create AWS Free tier account.
 
 ### AWS, or Amazon Web Services, is a cloud computing platform that provides a wide array of on-demand services, including computing power, storage, databases, and more, to individuals, companies, and governments. It allows users to access and utilize these services over the internet on a pay-as-you-go basis, offering scalability and flexibility. Essentially, AWS is a comprehensive suite of cloud services that enables businesses to build and run applications, store data, and manage their IT infrastructure without the need for physical hardware. 
